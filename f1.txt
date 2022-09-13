@@ -1,2 +1,3 @@
 Adding Some text in file1
 Some more text in file1
+fourth line in file1
